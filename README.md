@@ -3,7 +3,7 @@
 ### test
 
 ```mermaind
-graphTD;
+graph TD
   猪木-->ボンバイエ;
   ボンバイエ-->猪木;
   ボンバイエ-->ファイッ!!;
