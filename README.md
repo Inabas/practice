@@ -2,7 +2,7 @@
 ## test
 ### test
 
-```mermaind
+```mermaid
 graph TD
   猪木-->ボンバイエ;
   ボンバイエ-->猪木;
